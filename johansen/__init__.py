@@ -1,2 +1,2 @@
 from .johansen import Johansen
-from .johansen import critical_value
+from .johansen import critical_values
